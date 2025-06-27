@@ -1,4 +1,4 @@
-# 🧠 Proyecto: [Nombre del Proyecto]
+# 🧠 Proyecto: [TODO-LIST (LISTA DE TAREAS)]
 
 Este es un proyecto desarrollado en HTML, CSS y JavaScript como parte de mis prácticas y aprendizaje de desarrollo web. El diseño es moderno, responsivo y funcional.
 
