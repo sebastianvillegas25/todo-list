@@ -57,9 +57,7 @@ Puedes ver la versión online aquí:
 🔗 https://tu-usuario.github.io/tu-repo/
 
 📁 Estructura del proyecto
-pgsql
-Copiar
-Editar
+
 /
 ├── index.html
 ├── style.css
