@@ -28,10 +28,10 @@ Ejemplos:
 
 > Puedes agregar capturas de tu proyecto terminado aquí
 
+![image](https://github.com/user-attachments/assets/2c6d974b-cd96-4694-a056-da03282101bf)
 
-yaml
-Copiar
-Editar
+
+
 
 ---
 
